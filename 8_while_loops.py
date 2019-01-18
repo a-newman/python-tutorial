@@ -53,6 +53,7 @@ print("Outside of loop; took", n_tries, "tries")
 
 # 1. Write a while loop that prints all the numbers from 1 to 10. 
 # Your code here. 
+
 # 2. What is wrong with this code? 
 # count = 10
 # while (count < 100): 
